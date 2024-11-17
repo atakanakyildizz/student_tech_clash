@@ -90,3 +90,4 @@ Please enter your travel request (e.g., 'I want to go from A to B at 8 AM').
 Enter your travel request: I want to go from Lingotto to Porta Nuova at 8 AM
 Processing the travel request: I want to go from Lingotto to Porta Nuova at 8 AM
 Suggested travel route: The best route from Lingotto to Porta Nuova is by taking bus 123 at 8:15 AM.
+ 
