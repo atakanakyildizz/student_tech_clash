@@ -1,0 +1,8 @@
+langchain
+openai
+tensorflow
+tensorflow-probability
+Flask
+notebook
+pandas
+requests
